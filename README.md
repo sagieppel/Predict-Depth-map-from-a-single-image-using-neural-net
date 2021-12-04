@@ -3,7 +3,9 @@
 Predict depth map from image using neural net with pytorch the depth map 
 
 The same code with train model included (run out of the box) could be download from: [1](https://icedrive.net/0/1c1qFyjiIb)
+
 The net was trained using the SUN3D dataset that can be downloaded from [here](http://sun3d.cs.princeton.edu/) 
+
 Based on paper [Depth Map Prediction from a Single Image using a Multi-Scale Deep Network](https://proceedings.neurips.cc/paper/2014/file/7bccfde7714a1ebadf06c5f4cea752c1-Paper.pdf) For more details
 
 # Requirements
